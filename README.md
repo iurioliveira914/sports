@@ -12,4 +12,4 @@ Projeto construido no evento Next Level Week da Rocketseat.
 - CSS
 - Git e Github
 
-Acesse o projeto clicando [aqui](https://iurioliveira914.github.io/sports/)
+Acesse o projeto clicando <a href="https://iurioliveira914.github.io/sports/" target="_blank">aqui</a>
